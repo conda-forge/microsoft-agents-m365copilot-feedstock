@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.6.0"
+  version: "1.7.0"
 
 package:
   name: microsoft-agents-m365copilot
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/m/microsoft-agents-m365copilot/microsoft_agents_m365copilot-${{ version }}.tar.gz
-    sha256: cc3ccc74d937c52c2690806004248d2adbe20b05ce2c7b0d0149318e0645bf6a
+    sha256: 56fea5fdbd9b14a4a577274b6be9fec70582274c470dcfd8849bdda4fc46928d
 
 build:
   number: 0
